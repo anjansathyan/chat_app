@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "482736935897",
+    "firebase_url": "https://konversation-378a4.firebaseio.com",
+    "project_id": "konversation-378a4",
+    "storage_bucket": "konversation-378a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482736935897:android:690723316f40c85362ffc8",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482736935897-2rgcrl7aa5afdi2auobtn5iht133gcr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJZKsr3uo5NKA-xpZwjSLvk5Vw2Nw3uLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482736935897-2rgcrl7aa5afdi2auobtn5iht133gcr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
